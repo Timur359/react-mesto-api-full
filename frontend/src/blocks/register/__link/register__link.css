@@ -1,0 +1,9 @@
+.register__link {
+ font-family: 'Inter', Arial, Helvetica, sans-serif;
+ font-weight: 400;
+ font-size: 14px;
+ line-height: 16.94px;
+ margin: 15px auto;
+ color: white;
+ text-decoration: none;
+}

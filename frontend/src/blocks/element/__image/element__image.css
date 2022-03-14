@@ -1,0 +1,11 @@
+.element__image {
+ width: 282px;
+ transition: opacity 0.3s ease;
+ object-fit: cover;
+ height: 282px;
+ cursor: pointer;
+}
+
+.element__image:hover {
+ opacity: 0.5;
+}

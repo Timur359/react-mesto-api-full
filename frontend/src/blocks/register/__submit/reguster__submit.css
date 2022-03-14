@@ -1,0 +1,13 @@
+.register__submit {
+ width: 358px;
+ height: 50px;
+ font-family: 'Inter', Arial, Helvetica, sans-serif;
+ font-weight: 400;
+ font-size: 18px;
+ line-height: 21.78px;
+ background-color: white;
+ color: black;
+ margin: 0 auto;
+ border: none;
+ cursor: pointer;
+}

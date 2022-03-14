@@ -1,0 +1,10 @@
+.element__card-container {
+ padding: 25px 15px 31px 21px;
+ margin: 0;
+ display: flex;
+ justify-content: space-between;
+ overflow: hidden;
+ align-items: center;
+ box-sizing: border-box;
+ height: 79px;
+}

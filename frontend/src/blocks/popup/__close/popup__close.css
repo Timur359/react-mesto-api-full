@@ -1,0 +1,26 @@
+.popup__close {
+    background: url('../../../image/close__button.svg');
+    background-size: 35px 35px;
+    width: 35px;
+    height: 35px;
+    border: none;
+    position: absolute;
+    top: -43px;
+    right: -43px;
+    color: white;
+    transition: .4s;
+}
+
+.popup__close:hover {
+    opacity: .6;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 555px) {
+    .popup__close {
+        background-size: 20px 20px;
+        width: 20px;
+        height: 20px;
+        right: 0;
+    }
+}

@@ -1,0 +1,15 @@
+.element {
+ border-radius: 10px;
+ background-color: white;
+ max-width: 282px;
+ overflow: hidden;
+ display: grid;
+ grid-template-rows: 282px 1fr;
+ position: relative;
+}
+
+@media screen and (max-width: 915px) {
+ .element {
+  margin: 0 auto;
+ }
+}
